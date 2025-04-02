@@ -1,0 +1,896 @@
+{
+    "FileVersion": "2.3.1",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 0,
+    "BuildBundleType": 1,
+    "BuildPipeline": "EditorSimulateBuildPipeline",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "Simulate",
+    "PackageNote": "2025/4/2 10:25:25",
+    "AssetList": [
+        {
+            "Address": "Font1",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Font/Font1.ttf",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Font2",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Font/Font2.ttf",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Bush1",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/BackgroundObjects/Bushes/Bush1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Bush2",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/BackgroundObjects/Bushes/Bush2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Bush3",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/BackgroundObjects/Bushes/Bush3.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Castle",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/BackgroundObjects/Castle.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Cloud1",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/BackgroundObjects/Clouds/Cloud1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 3,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Cloud2",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/BackgroundObjects/Clouds/Cloud2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 3,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Cloud3",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/BackgroundObjects/Clouds/Cloud3.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 3,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "HillBig",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/BackgroundObjects/Hills/HillBig.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "HillSmall",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/BackgroundObjects/Hills/HillSmall.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Lava",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/BackgroundObjects/Lava/Lava.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 5,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "LavaWaveBig",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/BackgroundObjects/Lava/LavaWaveBig.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 5,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "LavaWaveSmall",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/BackgroundObjects/Lava/LavaWaveSmall.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 5,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "BrownBrick",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/InteractableObjects/Bricks/BrownBrick.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 7,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "CoinBrick",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/InteractableObjects/Bricks/CoinBrick.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 7,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "DarkBrick",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/InteractableObjects/Bricks/DarkBrick.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 7,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "DarkCoinBrick",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/InteractableObjects/Bricks/DarkCoinBrick.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 7,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Bridge",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/InteractableObjects/Bridge/Bridge.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 8,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "ChainBridge",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/InteractableObjects/Bridge/ChainBridge.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 8,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Coin",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/InteractableObjects/Coin.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 6,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Fireball",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/InteractableObjects/Fireball.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 6,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "BrownFlag",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/InteractableObjects/Flags/BrownFlag.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 9,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "ConnectedCastlePipe",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/InteractableObjects/Pipes/ConnectedCastlePipe.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 10,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "ConnectedCastlePipe2",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/InteractableObjects/Pipes/ConnectedCastlePipe2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 10,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "ConnectedPipe",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/InteractableObjects/Pipes/ConnectedPipe.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 10,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "ConnectedPipe2",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/InteractableObjects/Pipes/ConnectedPipe2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 10,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "HeadCastlePipe",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/InteractableObjects/Pipes/HeadCastlePipe.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 10,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "HeadPipe",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/InteractableObjects/Pipes/HeadPipe.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 10,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "1UpMushroom",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/InteractableObjects/PowerUps/1UpMushroom.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 11,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "BigMushroom",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/InteractableObjects/PowerUps/BigMushroom.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 11,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "FireFlower",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/InteractableObjects/PowerUps/FireFlower.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 11,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "UltimateStar",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/InteractableObjects/PowerUps/UltimateStar.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 11,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "BigBlockStone",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/InteractableObjects/Stones/BigBlockStone.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 12,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "BlockStone",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/InteractableObjects/Stones/BlockStone.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 12,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "BrownStone",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/InteractableObjects/Stones/BrownStone.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 12,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "CastleStone",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/InteractableObjects/Stones/CastleStone.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 12,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "DarkStone",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/InteractableObjects/Stones/DarkStone.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 12,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "VerticalStairway",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/InteractableObjects/VerticalStairway.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 6,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "World1Ground",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/InteractableObjects/World1Ground.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 6,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "World2Ground",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/InteractableObjects/World2Ground.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 6,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "CastleGoomba",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/MovableObjects/Enemies/CastleGoomba.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 14,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "DarkGoomba",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/MovableObjects/Enemies/DarkGoomba.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 14,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Goomba",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/MovableObjects/Enemies/Goomba.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 14,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Koopa",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/MovableObjects/Enemies/Koopa.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 14,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Piranha",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/MovableObjects/Enemies/Piranha.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 14,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Fireball1",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/Objects/MovableObjects/Fireball1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 13,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "GameManager",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/System/GameManager.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 15,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "GameStatus",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/System/GameStatus.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 15,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Score1000",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/System/Score1000.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 15,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Score200",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Prefabs/System/Score200.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 15,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "1-2.2",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Scenes/1-2.2.unity",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 17,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "1-2",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Scenes/1-2.unity",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 16,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "1-3",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Scenes/1-3.unity",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 18,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "LoadingScene",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Scenes/LoadingScene.unity",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 19,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Scene1_1",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Scenes/Scene1_1.unity",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 20,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "StartingScene",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Scenes/StartingScene.unity",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 21,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "characters",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Sprites/characters.gif",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 22,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "FAVPNG_super-mario-bros-3-new-super-mario-bros-logo_Ta9fDTa4",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Sprites/FAVPNG_super-mario-bros-3-new-super-mario-bros-logo_Ta9fDTa4.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 22,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "misc-3",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Sprites/misc-3.gif",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 22,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "misc-4",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/Sprites/misc-4.gif",
+            "AssetGUID": "",
+            "AssetTags": [
+                "scene"
+            ],
+            "BundleID": 22,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "LoadingPanel",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/UIPrefab/LoadingPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ui"
+            ],
+            "BundleID": 23,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "StartPanel",
+            "AssetPath": "Assets/Samples/Space Shooter/GameRes/UIPrefab/StartPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ui"
+            ],
+            "BundleID": 24,
+            "DependBundleIDs": []
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_font.bundle",
+            "UnityCRC": 0,
+            "FileHash": "1a404ae698f6b7d9ec4793a04855574b",
+            "FileCRC": "00000000",
+            "FileSize": 30856,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_prefabs_objects_backgroundobjects.bundle",
+            "UnityCRC": 0,
+            "FileHash": "ed9b7aace0eb4f2d82a99373a6f75ea8",
+            "FileCRC": "00000000",
+            "FileSize": 7265,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_prefabs_objects_backgroundobjects_bushes.bundle",
+            "UnityCRC": 0,
+            "FileHash": "360af22f772359825f05926f3cf9721c",
+            "FileCRC": "00000000",
+            "FileSize": 6992,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_prefabs_objects_backgroundobjects_clouds.bundle",
+            "UnityCRC": 0,
+            "FileHash": "a9795ee2b88b6e575e5d50042dc6b124",
+            "FileCRC": "00000000",
+            "FileSize": 7002,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_prefabs_objects_backgroundobjects_hills.bundle",
+            "UnityCRC": 0,
+            "FileHash": "24925aa57a98d0923d579e71c70c0f79",
+            "FileCRC": "00000000",
+            "FileSize": 4678,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_prefabs_objects_backgroundobjects_lava.bundle",
+            "UnityCRC": 0,
+            "FileHash": "7c5492ee8a1d41d0c92f0de0b42f3036",
+            "FileCRC": "00000000",
+            "FileSize": 9744,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_prefabs_objects_interactableobjects.bundle",
+            "UnityCRC": 0,
+            "FileHash": "a31f423309eace58f7158eeb47b428d8",
+            "FileCRC": "00000000",
+            "FileSize": 19434,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_prefabs_objects_interactableobjects_bricks.bundle",
+            "UnityCRC": 0,
+            "FileHash": "5c8411e7daa85fa3c0552426f7c603c7",
+            "FileCRC": "00000000",
+            "FileSize": 69943,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_prefabs_objects_interactableobjects_bridge.bundle",
+            "UnityCRC": 0,
+            "FileHash": "0d7135d63ce4e64ec3333da27ca849ed",
+            "FileCRC": "00000000",
+            "FileSize": 6487,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_prefabs_objects_interactableobjects_flags.bundle",
+            "UnityCRC": 0,
+            "FileHash": "4ca23b5de246d002d919b424b5c724cf",
+            "FileCRC": "00000000",
+            "FileSize": 5370,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_prefabs_objects_interactableobjects_pipes.bundle",
+            "UnityCRC": 0,
+            "FileHash": "3fe2348e71aabeee80176c7dc873aa57",
+            "FileCRC": "00000000",
+            "FileSize": 37831,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_prefabs_objects_interactableobjects_powerups.bundle",
+            "UnityCRC": 0,
+            "FileHash": "0931b45c547c8cb260ad566b7af3a356",
+            "FileCRC": "00000000",
+            "FileSize": 29043,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_prefabs_objects_interactableobjects_stones.bundle",
+            "UnityCRC": 0,
+            "FileHash": "e3ab6753f9bb35586ac7ec79f3397883",
+            "FileCRC": "00000000",
+            "FileSize": 20128,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_prefabs_objects_movableobjects.bundle",
+            "UnityCRC": 0,
+            "FileHash": "d8d98bd50ba952e084ab54310c590acd",
+            "FileCRC": "00000000",
+            "FileSize": 5182,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_prefabs_objects_movableobjects_enemies.bundle",
+            "UnityCRC": 0,
+            "FileHash": "de23ab873d75e28f307da7610cd4eee8",
+            "FileCRC": "00000000",
+            "FileSize": 60540,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_prefabs_system.bundle",
+            "UnityCRC": 0,
+            "FileHash": "0e37ba0801111deae73ed6dd2a25bad4",
+            "FileCRC": "00000000",
+            "FileSize": 153485,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_scenes_1-2.bundle",
+            "UnityCRC": 0,
+            "FileHash": "5fffba42fa8d7255c599f42b9c3b6fb4",
+            "FileCRC": "00000000",
+            "FileSize": 1057496,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_scenes_1-2_2.bundle",
+            "UnityCRC": 0,
+            "FileHash": "3c8ba34ee0dbe570e6cf495d2704d0b7",
+            "FileCRC": "00000000",
+            "FileSize": 104974,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_scenes_1-3.bundle",
+            "UnityCRC": 0,
+            "FileHash": "616298ff60c8e4bf6111d0a00cc33876",
+            "FileCRC": "00000000",
+            "FileSize": 443438,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_scenes_loadingscene.bundle",
+            "UnityCRC": 0,
+            "FileHash": "708772472e28f801ad32bc422b7e0786",
+            "FileCRC": "00000000",
+            "FileSize": 3618,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_scenes_scene1_1.bundle",
+            "UnityCRC": 0,
+            "FileHash": "ebd38ad3d5ff97f111ca7f631652e17a",
+            "FileCRC": "00000000",
+            "FileSize": 487810,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_scenes_startingscene.bundle",
+            "UnityCRC": 0,
+            "FileHash": "19ce7ba0133b7eefea182434f2b0fa04",
+            "FileCRC": "00000000",
+            "FileSize": 3618,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_sprites.bundle",
+            "UnityCRC": 0,
+            "FileHash": "93601f1a466a50196c767744fa9174fc",
+            "FileCRC": "00000000",
+            "FileSize": 234955,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_uiprefab_loadingpanel.bundle",
+            "UnityCRC": 0,
+            "FileHash": "40477870e898fa3a2bc08cab19063d1e",
+            "FileCRC": "00000000",
+            "FileSize": 9069,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_samples_space_shooter_gameres_uiprefab_startpanel.bundle",
+            "UnityCRC": 0,
+            "FileHash": "b327f4a3be331ca73a449d84c91e924f",
+            "FileCRC": "00000000",
+            "FileSize": 21299,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        }
+    ]
+}
