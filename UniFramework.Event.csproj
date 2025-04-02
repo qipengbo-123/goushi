@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{574C7C7D-79E5-F3AA-E4BC-F112652B3D62}</ProjectGuid>
+    <ProjectGuid>{46442EFC-B3AB-6579-DFDC-F4C0864ACFAB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>UniFramework.Event</AssemblyName>
